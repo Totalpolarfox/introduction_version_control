@@ -1,0 +1,9 @@
+git branch - посмотреть список веток и в какой ветке находимся
+git branch <название ветки> - создать новую ветку
+git branch -d <название ветки> - удалить ветку
+git branch -M main - назначить ветку main основной
+git checkout <master, или название ветки> - переход в нужную ветку
+git merge <название метки> - слияние указаной ветки с основной master
+git log --graph - расширеное отображение лога при работе с ветками
+git remote add origin https://github.com/Totalpolarfox/introduction_version_control.git - информируем, что появляетсмя удаленный репозиторий
+git push -u origin main - направить локальный репозиторий в удаленный
