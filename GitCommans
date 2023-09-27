@@ -8,3 +8,4 @@ git log --graph - расширеное отображение лога при р
 git clone <internet address> - копировать удаленный репозиторий на компьютер
 git remote add origin https://github.com/Totalpolarfox/introduction_version_control.git - информируем, что появляетсмя удаленный репозиторий
 git push -u origin main - направить локальный репозиторий в удаленный
+git push - дальше можно без -u origin main 
